@@ -1,2 +1,0 @@
-# aktualina
-Created with CodeSandbox
